@@ -4,7 +4,7 @@
 
 ## Crew Member Screen
 
-![Alt text](/AppScreenshots/IMG_9511.PNG?raw=true 'Optional Title')
+![Alt text](/AppScreenshots/IMG_9511.png?raw=true 'Optional Title')
 
 ## Crew Member Detail Screen
 
